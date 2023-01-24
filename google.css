@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: stretch;
+    width: 100%;
+
+}
+
+.section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.search {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #EEEEEE;
+    width: 90%;
+
+}
+.searchText {
+    margin: 0px;
+}
+.textBox {
+    width: 295px;
+
+}
+.buttons {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.table {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+a {
+    margin-left:0%;
+}
